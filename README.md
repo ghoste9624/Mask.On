@@ -34,6 +34,10 @@ cd mask
 
 <br>
 
+![alt text](https://github.com/ghoste9624/mask.on/blob/main/files%2FScreenshot_20250605-180546_Termux.jpg)
+
+<br>
+
 # Start The Tool
 ```bash
 cd ~/mask.on/mask && ./mask.on.sh
