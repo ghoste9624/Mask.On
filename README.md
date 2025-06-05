@@ -26,12 +26,19 @@ sudo apt install npm
 # Installation 
 ```bash
 git clone https://github.com/ghoste9624/mask.on
-cd mask.on
+cd ~/mask.on
 chmod +x * && ./install.sh 
 cd mask
 ./mask.on.sh
 ```
 
+<br>
+
+# Start The Tool
+```bash
+cd ~/mask.on/mask && ./mask.on.sh
+```
+       
 <br>
 
 # Updated On 
